@@ -73,6 +73,8 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      */
     private static void printInfo() {
+        
+        //Im done
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
@@ -88,7 +90,6 @@ public class CardTrick {
         System.out.println("-- Working Out");
         System.out.println("-- Playing Games");
         System.out.println("-- Reading");
-        System.out.println("-- Riding my motorcycle")
 		
         System.out.println();
         
